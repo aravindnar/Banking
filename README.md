@@ -1,6 +1,5 @@
 # Basic Banking System
 
-This project was done by Keerthivasan D for The Sparks Foundation Internship
 
 ◇ Create a simple dynamic website which has the following specs.
 
@@ -11,3 +10,5 @@ This project was done by Keerthivasan D for The Sparks Foundation Internship
 ◇ No Login Page. No User Creation. Only transfer of money between multiple users.
 
 ◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
+
+This website is done by N Aravind
